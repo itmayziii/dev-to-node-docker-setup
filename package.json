@@ -1,0 +1,14 @@
+{
+  "name": "dev-to-node-docker-setup",
+  "version": "0.0.1",
+  "description": "Dev.to article on how to setup node inside a docker container",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tommy May <tommymay37@gmail.com> (https://www.fullheapdeveloper.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
